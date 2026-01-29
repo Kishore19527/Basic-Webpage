@@ -21,7 +21,6 @@ task-1/
 ├── script.js
 └── profile.jpg
 
-
 How to Use:
 1. Clone or download this repository:
 2. Open `index.html` in a browser.
